@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanhoProduto": "L",
+        "corProduto": "Brown",
+        "quantidadeProduto": "3"
+    },
+
+    {
+        "nomeProduto": "Apollo Running Short",
+        "tamanhoProduto": "36",
+        "corProduto": "Black",
+        "quantidadeProduto": "2"
+    },
+
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanhoProduto": "XL",
+        "corProduto": "Blue",
+        "quantidadeProduto": "2"
+    }
+]
